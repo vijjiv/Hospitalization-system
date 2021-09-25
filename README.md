@@ -1,2 +1,2 @@
-# Sistema-de-Hospitallizacion
-creación de un sistema de hospitalizacion de un paciente 
+# Sistema-de-Hospitalizacion
+patient hospitalization system
