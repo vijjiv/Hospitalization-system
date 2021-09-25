@@ -1,2 +1,2 @@
-# Sistema-de-Hospitalizacion
+# Hospitalization-system
 patient hospitalization system
